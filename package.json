@@ -1,0 +1,18 @@
+{
+  "name": "wildlife",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "",
+  "license": "ISC"
+}
